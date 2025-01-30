@@ -1,5 +1,5 @@
 
-# Onlybot.store gen + api
+# Onlybot.store dofus unity (dofus 3) bot key gen + check
 
 Onlybot script thats gen & check 
 
@@ -10,8 +10,7 @@ Onlybot script thats gen & check
 
 - Short code & fast
 - No need proxy at this time
-- Pass if the acc are no subscribed
-- Cross platform
+- Pass if the acc are not subscribed
 
 
 ## Installation
