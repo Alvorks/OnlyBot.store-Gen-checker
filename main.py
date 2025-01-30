@@ -23,7 +23,7 @@ def check_key(code):
 }, verify=False)
     try:
         data = resp.json()
-        if data.get("success"):
+        if data.get("ok connection"):
             print("Nouveau hit : " + code)
         else:
             print("Fail")
