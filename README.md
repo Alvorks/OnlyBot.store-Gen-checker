@@ -1,7 +1,7 @@
 
 # Onlybot.store dofus unity (dofus 3) bot key gen + check
 
-Onlybot script thats gen & check 
+script thats gen & check for onlybot the dofus 3 bot / dofus unity
 
 
 
